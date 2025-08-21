@@ -1,7 +1,4 @@
 
-
-https://github.com/user-attachments/assets/39e24fbf-7fbf-4f13-bade-15725cea9cbc
-
 <!DOCTYPE html>  <html lang="en">  
 <head>  
 <meta charset="UTF-8">  
@@ -140,6 +137,7 @@ captureButton.addEventListener("click", () => {
   // Fade out button smoothly  
   captureButton.style.transition = "opacity 0.5s";  
   captureButton.style.opacity = 0;  
-});  
+});  https://github.com/user-attachments/assets/39e24fbf-7fbf-4f13-bade-15725cea9cbc
+
 </script>  </body>  
 </html># BinodBist.77
